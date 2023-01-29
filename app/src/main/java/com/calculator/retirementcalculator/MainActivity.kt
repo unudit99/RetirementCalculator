@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
 
 
     }
-
+// this is for crsh
     companion object {
         fun HelloClick(view: View) {
             //throw Exception("throw exception")
